@@ -1,0 +1,25 @@
+Font Awesome - icons service
+
+css - class (.) , tag (tagName) , id (#id)
+
+background-repeat: no-repeat;
+
+li.brand - <li class="brand">
+link css
+script:src
+
+m:0
+p:0
+
+* {
+    margin: 0;
+    padding: 0;
+}
+Removed ul bullets (Whole Page)
+
+id - #hashtag  (css)
+
+opacity js - gif
+
+1:26
+
